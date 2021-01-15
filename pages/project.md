@@ -5,4 +5,4 @@ permalink: /project/
 ---
 
 
-[jekyll-organization]: http://lol.inven.co.kr
+http://lol.inven.co.kr
