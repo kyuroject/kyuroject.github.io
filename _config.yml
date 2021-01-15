@@ -40,3 +40,4 @@ plugins:
  - jekyll-seo-tag
 
 url: "https://kyuroject.github.io"
+baseurl: "/kyuroject"
