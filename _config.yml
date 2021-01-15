@@ -20,16 +20,16 @@ lin:
     medium:  jekyll
     rss: rss
     dribbble: jekyll
-    facebook: jekyll
+    facebook: null
     flickr:   jekyll
-    instagram: jekyll
+    instagram: null
     linkedin: jekyll
-    pinterest: jekyll
-    youtube_user: jekyll
-    youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
-    telegram: jekyll
-    googleplus: +jekyll
-    keybase: jekyll
+    pinterest: null
+    youtube_user: null
+    youtube_channel: UC8CXR0-null
+    telegram: null
+    googleplus: null
+    keybase: null
 
 theme: lin
 
